@@ -1,0 +1,57 @@
+# made by @leafoh2 discord
+Filetype: IR signals file
+Version: 1
+#
+name: POWER
+type: parsed
+protocol: NECext
+address: 83 55 00 00
+command: 90 6F 00 00
+#
+Names: freeze
+Type: parsed
+protocol: NECext
+adress: 83 55 00 00
+command: 92 6D 00 00
+#
+Name: Hdmi_1
+type: parsed
+protocol: NECext
+address: 83 55 00 00
+command: 73 8c 00 00
+#
+Names: Hdmi2
+Type: parsed
+protocol: NEXext
+adress: 83 55 00 00
+command: 77 88 00 00
+#
+Names: Vol+
+type: parsed
+protocol: NECext
+address: 83 55 00 00
+command: 98 67 00 00
+#
+Names: Vol-
+type: parsed
+protocol: NECext
+address: 83 55 00 00
+command: 98 67 00 00
+#
+name: Play
+type: parsed
+protocol: NECext
+address: 83 55 00 00
+command: 5E A1 00 00
+#
+name: Pause
+type: parsed
+protocol: NECext
+address: 83 55 00 00
+command: 5B A4 00 00
+#
+name: Stop
+type: parsed
+protocol: NECext
+address: 83 55 00 00
+command: 59 A6 00 00
