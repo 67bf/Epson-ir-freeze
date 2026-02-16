@@ -1,4 +1,4 @@
-# made by @leafoh2 discord
+# made by @67bf discord
 Filetype: IR signals file
 Version: 1
 #
@@ -54,4 +54,5 @@ name: Stop
 type: parsed
 protocol: NECext
 address: 83 55 00 00
+
 command: 59 A6 00 00
